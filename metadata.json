@@ -1,0 +1,6 @@
+{
+  "name": "Unique's PDF",
+  "description": "Compare two batches of PDFs to identify and extract unique new files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
